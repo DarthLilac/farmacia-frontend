@@ -1,5 +1,5 @@
 {
-  "name": "farmaciafront",
+  "name": "farmacia-frontend",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -15,7 +15,8 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-loader-spinner": "^5.3.4",
-    "react-router-dom": "^6.23.0"
+    "react-router-dom": "^6.23.0",
+    "react-toastify": "^9.1.2"
   },
   "devDependencies": {
     "@types/react": "^18.2.66",
