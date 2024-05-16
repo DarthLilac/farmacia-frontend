@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom";
+
 function Navbar() {
     return (
         <div className="bg-red-800  p-4 border-b-2 border-white">
